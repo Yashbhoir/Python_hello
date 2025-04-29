@@ -1,6 +1,6 @@
 # hello.py
 
-def main():
+def main):
     print("Hello, World! from yash bhoir")
 
 if __name__ == "__main__":
